@@ -3,13 +3,13 @@ PDF to Word Converter
 This is a simple Streamlit web application that converts PDF files into Word documents (.docx). The app allows users to upload a PDF file, convert it into a Word format, and download the resulting document.
 Features
 
-    Upload any PDF file for conversion.
-    Converts PDF files to Word format (.docx) quickly and efficiently.
-    Provides a download link for the converted Word document.
+-Upload any PDF file for conversion.
+-Converts PDF files to Word format (.docx) quickly and efficiently.
+ -Provides a download link for the converted Word document.
 
 Installation
 
-    Clone this repository:
+Clone this repository:
 
 git clone https://github.com/Garikaindt/pdf-to-word-converter.git
 cd pdf-to-word-converter
@@ -20,13 +20,13 @@ Install the required dependencies:
 
 Usage
 
-    Run the Streamlit app:
+Run the Streamlit app:
 
     streamlit run app.py
 
-    In the browser, upload your PDF file and click Convert to Word.
+In the browser, upload your PDF file and click Convert to Word.
 
-    After successful conversion, a download button will appear to download the Word file.
+After successful conversion, a download button will appear to download the Word file.
 
 Dependencies
 
