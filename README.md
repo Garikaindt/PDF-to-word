@@ -37,6 +37,6 @@ Dependencies
 Directory Structure
 
     app.py: Main Streamlit application.
-    uploads/: Directory to store the uploaded and converted files.
+    
 
 
