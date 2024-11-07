@@ -1,4 +1,3 @@
-Here’s a brief README for your PDF to Word Converter app:
 PDF to Word Converter
 
 This is a simple Streamlit web application that converts PDF files into Word documents (.docx). The app allows users to upload a PDF file, convert it into a Word format, and download the resulting document.
@@ -40,6 +39,4 @@ Directory Structure
     app.py: Main Streamlit application.
     uploads/: Directory to store the uploaded and converted files.
 
-License
 
-This project is open-source and available under the MIT License.
