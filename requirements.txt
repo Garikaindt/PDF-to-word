@@ -1,3 +1,4 @@
 streamlit
 pdf2docx
-pymupdf==1.18.19
+pymupdf==1.20.2
+
